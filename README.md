@@ -1,0 +1,1 @@
+Script desenvolvido para formatar um arquivo json e partir de um arquivo excel contendo duas colunas "cnm" e "matricula". A partir das informações dessas duas colunas, o script gera um arquivo json no formato do payload do método apiRegistraCnm da ONR: https://cnm.onr.org.br/swagger/
